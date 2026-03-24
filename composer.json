@@ -1,5 +1,8 @@
 {
-    "name": "horde/turba",
+    "name": "horde6/turba",
+    "replace": {
+        "horde/turba": "^5 || dev-FRAMEWORK_6_0"
+    },
     "description": "Address book application",
     "type": "horde-application",
     "homepage": "https://www.horde.org/apps/turba",
